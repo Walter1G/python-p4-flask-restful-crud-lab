@@ -57,3 +57,4 @@ class TestPlant:
             data = response.data.decode()
 
             assert(not data)
+            
